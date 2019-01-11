@@ -1,5 +1,8 @@
 # vuetify-router-demo
 
+## What's this?
+This is the code from my [tutorial](https://www.learningsomethingnew.com/vue-cli-router-vuetify-plugins)
+
 ## Project setup
 ```
 yarn install
